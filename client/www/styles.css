@@ -1,0 +1,6 @@
+/* use tailwind https://capacitorjs.com/docs/getting-started/ui */
+
+body {
+    background-color: black;
+    color: white;
+}
