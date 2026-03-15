@@ -1,4 +1,3 @@
-
 from flask import send_from_directory
 
 from server.create_app import create_app
